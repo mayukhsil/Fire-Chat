@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "711199900160",
+    "firebase_url": "https://fire-chat-a4b91.firebaseio.com",
+    "project_id": "fire-chat-a4b91",
+    "storage_bucket": "fire-chat-a4b91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711199900160:android:3b9ea2430e7892dd434ee5",
+        "android_client_info": {
+          "package_name": "com.flashchat.maya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711199900160-inqd24qnahbet7tatjobjqoo33nj0q8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7C0ky6RjoP9Gl8Mb5X6VPaTLMgudND6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711199900160-inqd24qnahbet7tatjobjqoo33nj0q8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
